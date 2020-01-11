@@ -38,7 +38,7 @@ Animated Graph
    - Size : 샘플 생성 개수 및 array shape 설정
             
             다차원의 array 형태로 무작위 샘플을 생성할 수 있다 => NumPy random 모듈의 장점
-
+            
 
 
 &nbsp;&nbsp;
