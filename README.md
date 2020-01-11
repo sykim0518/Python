@@ -4,3 +4,4 @@
 
 2) random number 발생을 통한 Animated Graph
 
+3) 패션 MNIST를 이용한 옷분류 모델
