@@ -40,4 +40,3 @@
 >### 최종 예측 결과
 
 ![예측결과](https://user-images.githubusercontent.com/52990642/72201380-b8e55f00-3496-11ea-91f9-b04bc0c68e92.png)
-
