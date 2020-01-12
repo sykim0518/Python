@@ -1,11 +1,12 @@
 Animated Graph
 =============
->### 목표
+&nbsp;&nbsp; 
+>### 📌 **목표**
 
 &nbsp;&nbsp;- 값을 생성하는 부분을 random number로 대체하여, 마치 고장난 오실로스코프 같은 그래프가 나오는지 확인한다
 
 &nbsp;&nbsp;
->### Matplotlib animation
+>### 📌 **Matplotlib animation**
 
 - 애니메이션 기능이 구축되는 프레임 워크를 제공
 
@@ -42,7 +43,7 @@ Animated Graph
 
 
 &nbsp;&nbsp;
->### 결과물
+>### 📌 **결과물**
 
 <img width="500" alt="결과물" src="https://user-images.githubusercontent.com/52990642/72200218-ff808c80-3489-11ea-8b1d-32e838d455c9.PNG">
 
